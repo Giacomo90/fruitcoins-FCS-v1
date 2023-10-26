@@ -5,3 +5,4 @@ Solidity file of the native token of the fruitcoins platform, viewable by everyo
 
 https://fruitcoins.app  => fruitcoins platform
 https://bscscan.com/address/0xbA18643Bd61d6030182D11C1eEEf9B0a51c853d4   => bsc scan of fruitcoins v1
+https://www.cyberscope.io/audits/fcs  => Audit Cyberscope FCS Token
